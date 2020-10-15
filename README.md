@@ -1,4 +1,5 @@
 ﻿# Coletor Pycomm e Snap7 (PLC Rockwell e Siemens) em python
+- historiador de temperaturas e pressão
 ## Na pasta install
 - instalar pycomm mod: python setup.py install
 - instalar snap7: pip install python-snap7
@@ -6,3 +7,4 @@
 - copiar pasta snap para maquina cliente e adiciona-la nas variaveis de ambientes do windows
 ## Outras instalações
 - python 2.7.15 32bits
+- Grafana (dashboards)
